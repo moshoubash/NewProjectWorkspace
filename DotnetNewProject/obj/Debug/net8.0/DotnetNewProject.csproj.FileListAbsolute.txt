@@ -1,0 +1,14 @@
+M:\NewProjectWorkspace\DotnetNewProject\bin\Debug\net8.0\DotnetNewProject.exe
+M:\NewProjectWorkspace\DotnetNewProject\bin\Debug\net8.0\DotnetNewProject.deps.json
+M:\NewProjectWorkspace\DotnetNewProject\bin\Debug\net8.0\DotnetNewProject.runtimeconfig.json
+M:\NewProjectWorkspace\DotnetNewProject\bin\Debug\net8.0\DotnetNewProject.dll
+M:\NewProjectWorkspace\DotnetNewProject\bin\Debug\net8.0\DotnetNewProject.pdb
+M:\NewProjectWorkspace\DotnetNewProject\obj\Debug\net8.0\DotnetNewProject.GeneratedMSBuildEditorConfig.editorconfig
+M:\NewProjectWorkspace\DotnetNewProject\obj\Debug\net8.0\DotnetNewProject.AssemblyInfoInputs.cache
+M:\NewProjectWorkspace\DotnetNewProject\obj\Debug\net8.0\DotnetNewProject.AssemblyInfo.cs
+M:\NewProjectWorkspace\DotnetNewProject\obj\Debug\net8.0\DotnetNewProject.csproj.CoreCompileInputs.cache
+M:\NewProjectWorkspace\DotnetNewProject\obj\Debug\net8.0\DotnetNewProject.dll
+M:\NewProjectWorkspace\DotnetNewProject\obj\Debug\net8.0\refint\DotnetNewProject.dll
+M:\NewProjectWorkspace\DotnetNewProject\obj\Debug\net8.0\DotnetNewProject.pdb
+M:\NewProjectWorkspace\DotnetNewProject\obj\Debug\net8.0\DotnetNewProject.genruntimeconfig.cache
+M:\NewProjectWorkspace\DotnetNewProject\obj\Debug\net8.0\ref\DotnetNewProject.dll
