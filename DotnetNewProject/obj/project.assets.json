@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "M:\\NewProjectWorkspace\\DotnetNewProject\\DotnetNewProject.csproj",
+      "projectUniqueName": "C:\\Users\\moham\\clonedRepo\\NewProjectWorkspace\\DotnetNewProject\\DotnetNewProject.csproj",
       "projectName": "DotnetNewProject",
-      "projectPath": "M:\\NewProjectWorkspace\\DotnetNewProject\\DotnetNewProject.csproj",
+      "projectPath": "C:\\Users\\moham\\clonedRepo\\NewProjectWorkspace\\DotnetNewProject\\DotnetNewProject.csproj",
       "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-      "outputPath": "M:\\NewProjectWorkspace\\DotnetNewProject\\obj\\",
+      "outputPath": "C:\\Users\\moham\\clonedRepo\\NewProjectWorkspace\\DotnetNewProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
